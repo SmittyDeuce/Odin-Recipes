@@ -1,5 +1,23 @@
-h1{
+h1, h2, h3{
     text-align: center;
     font-size: 40px;
     font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.recipes{
+    background-color: black;
+    color: white;
+}
+#baked-zitibody,#enchiladasbody,#enchiladasbody{
+    background-color: black;
+    color: white;
+}
+li{
+    text-align: center;
+}
+.photo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
 }
