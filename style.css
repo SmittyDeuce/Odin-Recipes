@@ -8,16 +8,24 @@ h1, h2, h3{
     background-color: black;
     color: white;
 }
-#baked-zitibody,#enchiladasbody,#enchiladasbody{
+*{
     background-color: black;
     color: white;
 }
 li{
     text-align: center;
+    border: solid 20px black;
 }
 .photo{
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: auto;
+}
+.description{
+    text-align: center;
+    font-size: 22px;
+    border: solid lightcoral 10px;
+    margin: 44px;
+    padding: 20px;
 }
